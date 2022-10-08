@@ -1,6 +1,6 @@
-package Controller;
+package controller;
 
-import Service.Printable;
+import service.Printable;
 import data.Computer;
 
 import java.util.List;

@@ -1,6 +1,6 @@
-package Service.impl;
+package service.impl;
 
-import Service.SelectableByOS;
+import service.SelectableByOS;
 import constants.OperationSystems;
 import data.impl.Server;
 

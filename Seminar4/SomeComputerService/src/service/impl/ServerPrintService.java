@@ -1,13 +1,9 @@
-package Service.impl;
+package service.impl;
 
-import Service.Printable;
-import data.Computer;
+import service.Printable;
 import data.impl.Server;
 
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
-import java.util.logging.Logger;
 
 public class ServerPrintService implements Printable<Server> {
     @Override

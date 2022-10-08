@@ -1,13 +1,12 @@
-package Controller.impl;
+package controller.impl;
 
-import Controller.Controller;
-import Service.Printable;
-import Service.SelectableByOS;
-import Service.impl.ServerSelectByOSService;
+import controller.Controller;
+import service.Printable;
+import service.SelectableByOS;
+import service.impl.ServerSelectByOSService;
 import constants.OperationSystems;
 import data.impl.Server;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class ServerController extends Controller<Server> {

@@ -1,6 +1,6 @@
-package Service.impl;
+package service.impl;
 
-import Service.Printable;
+import service.Printable;
 import data.impl.Desktop;
 
 import java.util.List;

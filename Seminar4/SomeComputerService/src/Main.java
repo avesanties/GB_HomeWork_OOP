@@ -15,8 +15,8 @@
  * в main продемонстрировать поведение программы
 */
 
-import Controller.impl.ServerController;
-import Service.impl.ServerPrintService;
+import controller.impl.ServerController;
+import service.impl.ServerPrintService;
 import constants.OperationSystems;
 import data.impl.Server;
 
